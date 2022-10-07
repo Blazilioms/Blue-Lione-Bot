@@ -61,8 +61,8 @@ global.socialm = "GitHub: Nipuna-apps" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //bot bomdy
-global.owner = ['94726865408']
-global.ownertag = '94726865408' //ur tag number
+global.owner = ['726865408']
+global.ownertag = '726865408' //ur tag number
 global.botname = '📶 𝗕𝗟𝗔𝗭𝗜 𝗕𝗢𝗧 📶' //ur bot name
 global.linkz = "https://youtu.be/3J9-8U8St3U" //your theme url which will be displayed on whatsapp
 global.websitex = "https://youtu.be/3J9-8U8St3U" //ur website to be displayed
@@ -79,7 +79,7 @@ global.err4r = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur error pic
 global.thumb = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
 
 //damtabase
-global.premium = ['94788197793'] //ur premium numbers
+global.premium = ['726865408'] //ur premium numbers
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
